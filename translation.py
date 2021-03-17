@@ -6,12 +6,11 @@ This is a Telegram URL Upload Bot!
 
 <b>Please send me any Direct download URL link, I can upload to telegram as File/Video</b>
 
-/help for more details..
 
-Support Group : @TroJanzSupport
+Support Group : @Tfilimsmovie
 """
 
-    HELP_USER = """Hai I'am a URL Uploader bot..
+    HELP_USER = """Hai I'am a @FILIMSMOVIE URL Uploader bot..
     
 1. Send url (Link | New Name with Extension).
 2. Send Custom Thumbnail (Optional).
@@ -21,7 +20,7 @@ Support Group : @TroJanzSupport
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
 
-Support Group : @TroJanzSupport
+Support Group : @filimsmovie
 """
 
     FORMAT_SELECTION = """Select the desired format: <a href='{}'>file size might be approximate</a>
